@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7035387d-cc6a-4507-8584-f218447eb109" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/yra_bot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/callbacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/credentials.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/main_catcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboards/keyboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/how_to_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/texts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +23,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.bot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.db.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ксения/HelperBot/poizon_shipping/media&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.bot.executor": "Run",
+    "Python.db.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ксения/HelperBot/poizon_shipping/media"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ксения\HelperBot\poizon_shipping\media" />
