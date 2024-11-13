@@ -2,7 +2,7 @@ from aiogram import Bot
 from aiogram.client.default import DefaultBotProperties
 from db import db
 
-bot2 = Bot(token='7304299482:AAH4rsWJnThLaEd3XOd5VMNThWkwmwuWIdk', default=DefaultBotProperties(parse_mode='HTML'))
+bot2 = Bot(token='7778979051:AAEP7ClooJjtct8Js0dzbEJRJbYlWqHftTI', default=DefaultBotProperties(parse_mode='HTML'))
 
 hello_text = f"""Здравствуйте! Спасибо, что решили воспользоваться услугами Poizon Shipping.
 Этот бот поможет вам выбрать и оформить заказ на любой товар с Poizon.
